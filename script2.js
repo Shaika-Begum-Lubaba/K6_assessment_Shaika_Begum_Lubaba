@@ -24,7 +24,7 @@ export const options = {
 export default function () {
     const baseUrl = "https://bs23-test.ferdia.app";
     const endPoint = "/api/crm/query-form/";
-    const token="AIzaSyA5tbpLQV5SlJv7z7A2Hdrl471L1o8y17AcQ3jOgK"; 
+    const token="APIkey";
     const payload = JSON.stringify({
         
     travel_from: "Oslo, Norway",
